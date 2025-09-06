@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/HfptdcpN/eca033a1-98eb-412c-85dc-76c19bcabded-8.png" alt="eca033a1-98eb-412c-85dc-76c19bcabded-8" border="0" alt="" width="256" height="256"><h1>Rush E Generator</h1>
-<p><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#tech-stack">Tech Stack</a></p>
+<p><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#tech-stack">Tech Stack</a></p> - <a href="https://github.com/midiguy7000/AMB/releases/tag/0.8">Download</a>
 
 ## Project Description
 
