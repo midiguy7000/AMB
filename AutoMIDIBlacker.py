@@ -30,6 +30,8 @@ def set_vars_n_shii(art):
         midi2_path = '_internal\\dbl_helix_128.mid'
     elif art == 'Short Double Helix (128 Keys)':
         midi2_path = '_internal\\fast_dbl_helix_128.mid'
+    elif art == 'Squares':
+        midi2_path = '_internal\\sq.mid'
 
 
 def set_vars_n_shii2(ins, rpt, gui):
@@ -158,3 +160,4 @@ def merge_midi_snippet(gui):
 
 if __name__ == "__main__":
     merge_midi_snippet()
+
