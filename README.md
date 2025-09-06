@@ -18,6 +18,7 @@ This project can insert the following MIDI arts
 *   **Helix (128 keys)**
 *   **Doutble Helix (128 keys)**
 *   **Fast Double Helix (128 keys)**
+*   **Squares (Thanks RomaMegaG)**
 
 ## Tech Stack
 
