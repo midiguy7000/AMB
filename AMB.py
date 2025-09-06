@@ -33,7 +33,7 @@ class AutoMIDIBlackerGUI:
         self.art_ctrl_ddm = ctk.CTkComboBox(master=self.art_ctrl_frame, values=[
             'Zigzag (88 Keys)', 'Double Zigzag (88 Keys)', 'Short Double Zigzag (88 Keys)',
             'Zigzag (128 Keys)', 'Double Zigzag (128 Keys)', 'Short Double Zigzag (128 Keys)', 'Helix (128 Keys)',
-            'Double Helix (128 Keys)', 'Short Double Helix (128 Keys)'],
+            'Double Helix (128 Keys)', 'Short Double Helix (128 Keys)', 'Squares'],
             font=('FOT-Rodin Pro EB', 15), width=310)
         self.art_ctrl_ddm.pack(pady=10)
 
@@ -116,3 +116,4 @@ class AutoMIDIBlackerGUI:
 if __name__ == "__main__":
     app = AutoMIDIBlackerGUI()
     app.run()
+
